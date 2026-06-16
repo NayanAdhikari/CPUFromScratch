@@ -1,8 +1,9 @@
 - inspired by Ben Eater, and built by me with revisions. (See below).
+- Thank you so much Ben Eater, https://www.youtube.com/@BenEater
 
 #  CPU Emulator
 
-A 6502-inspired 8-bit CPU emulator written in C++ to explore computer architecture concepts including memory management, instruction decoding, register operations, and the fetch-decode-execute cycle.
+A 6502-inspired 8-bit CPU emulator written in C++ to explore computer architecture concepts including memory management, instruction decoding, register operations, and the fetch-decode-execute cycle. I added a couple quirks to this.
 
 ## Features
 
