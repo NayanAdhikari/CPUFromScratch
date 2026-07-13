@@ -3,7 +3,7 @@
 
 #  CPU Emulator
 
-A 6502-inspired 8-bit CPU emulator written in C++ to explore computer architecture concepts including memory management, instruction decoding, register operations, and the fetch-decode-execute cycle. I added a couple quirks to this.
+A 6502-inspired 8-bit CPU to explore computer architecture concepts including memory management, instruction decoding, register operations, and the fetch-decode-execute cycle. I added a couple quirks to this.
 
 #  Following Will Be Included
 
